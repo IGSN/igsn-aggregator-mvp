@@ -25,3 +25,6 @@ with Docker.
 An early test site was created at http://samples.earth and the 
 code for that can be found at: https://github.com/fils/samplesEarth
 
+However, that approach is deprecated by the IGSN Provider MVP 
+at https://github.com/IGSN/igsn-publisher-mvp
+
